@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Akismet tesdt from wordpres 2 stage
+ * @package Akismet te
  */
 /*
 Plugin Name: Akismet Anti-Spam
