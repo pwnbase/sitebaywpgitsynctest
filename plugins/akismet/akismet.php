@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Akismet
+ * @package Akismet assss
  */
 /*
 Plugin Name: Akismet Anti-Spam
